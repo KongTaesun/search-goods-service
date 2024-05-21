@@ -1,9 +1,9 @@
 server:
-  port: 0
+  port: 8081
 
 spring:
   application:
-    name: goods-service
+    name: search-goods-service
   h2:
     console:
       enabled: true
